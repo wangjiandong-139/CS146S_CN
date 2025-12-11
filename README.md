@@ -1,6 +1,5 @@
-# 📚 课程目录 (Table of Contents)
+# 📚 CS146S中文版课程目录
 > 联系方式: 1842794401@qq.com
-
 * [概述](#概述)
     * [课程说明](#课程说明)
     * [学分](#学分)
@@ -431,9 +430,9 @@
 
 **Canvas：** 所有课程材料和提交均通过 Stanford Canvas 进行
 
-# 相关资源
+# 相关项目资源
 
-| 项目名称 | 项目简要 | link |
+| 名称 | 简要 | 链接 |
 |----------|----------|------|
 | Awesome Vibe Coding | 一个精选的vibe coding参考列表，专注于通过AI协作编写代码，包括工具、概念和提示工程指南。 | [link](https://github.com/filipecalegario/awesome-vibe-coding) |
 | Context Engineering Template | 介绍上下文工程作为vibe coding的基础，教导如何使用CLAUDE.md和INITIAL.md等文件创建项目规则和功能请求，以实现一致的AI驱动开发。 | [link](https://github.com/coleam00/context-engineering-intro) |
