@@ -2,7 +2,7 @@
   <img src="teaser.png" width="100%" height="auto">
 </div>
 
-<h1 align="center">📚CS146S中文版课程</h1>
+<h1 align="center">📚CS146S中文版课程 Vibe Coding Together</h1>
 
 **欢迎加入 动手学CS146S 交流群一起讨论**:
 <div align="center">
