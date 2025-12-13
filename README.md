@@ -11,7 +11,7 @@
   <img src="group.png" width="20%" height="auto">
 </div>
 
-> 本项目由中科院计算所博士生长期维护，希望能帮到各位入门 vibe coding 的朋友，欢迎Star，分享与提PR🌟~  
+> 本项目长期维护，希望能帮到各位入门 vibe coding 的朋友，欢迎Star，分享与提PR🌟~  
 > 正在积极维护高质量 Assignments 中，每周天发布哦~
 
 
