@@ -430,3 +430,7 @@
 # 许可证
 
 本项目采用 MIT 许可证 - 详情请见 `LICENSE` 文件。
+https://github.com/ShouZhengAI/CS146S_CN
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ShouZhengAI/CS146S_CN&type=Timeline)](https://star-history.com/#ShouZhengAI/CS146S_CN&Timeline)
