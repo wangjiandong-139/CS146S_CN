@@ -1,3 +1,6 @@
+<div align="center">
+  <img src="teaser.png" width="100%" height="auto">
+</div>
 
 <h1 align="center">📚CS146S中文版课程</h1>
 
