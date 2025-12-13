@@ -47,6 +47,7 @@
     * [第 10 周：AI 软件工程的未来](#第-10-周ai-软件工程的未来)
 * [本地ai应用](#本地应用)
 * [vibe coding命令行工具](#命令行工具)
+* [国产编程平台](#国产编程平台)
 * [FAQ 常见问题](#常见问题)
 * [相关资源-vibe coding项目](#相关资源)
 
@@ -373,6 +374,17 @@
 - [vibe-cli](https://github.com/Jinjos/vibe-cli) - 氛围编程工作流的命令行界面。
 - [langchain-code](https://github.com/zamalali/langchain-code) - 基于LangChain的编程代理，用于AI辅助开发。
 - [kimi-cli](https://github.com/MoonshotAI/kimi-cli) - Kimi官方命令行界面，一个帮助编程任务和开发工作流的AI助手。
+
+## 国产编程平台
+
+
+| 国产编程模型                | 定位                          | 个人最低订阅价                                                                                                                          | CLI & IDE                                                                                                                                                | 其他                                                          |
+| --------------------- | --------------------------- | -------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- |
+| **GLM-4.6 Coding**    | 智谱「通用+编程」双模长上下文             | [20 元/月（Coding Plan）](https://docs.bigmodel.cn/cn/guide/models/text/glm-4.6)<br>季付 54 元≈18 元/月                                   | – [GLM-CLI（官方）](https://github.com/xqsit94/glm)<br>– Claude Code / Roo Code / Cline 等 10+ 第三方已适配                                                         | [iFlow（开源流程编排）](https://github.com/OSCC-Project/iFlow)      |
+| **Kimi K2 Thinking**  | 月之暗面「推理+代码」长思考模型            | [49 元/月（K2 会员）](https://kimi-k2.org/zh/blog/15-kimi-k2-thinking-zh)<br>放量 199 元/月                                                | – Kimi-Code-CLI（内测）<br>– 继续用 Claude Code，自定义 base-url 切到 K2                                                                                              | [Qwencode（阿里开源轻量 CLI）](https://github.com/alibaba/qwencode) |
+| **Doubao-Seed-Code**  | 字节「Agentic 编程」专用模型，256k 上下文 | [Lite：首月 9.9 元，续费 40 元/月](https://www.volcengine.com/docs/82354/1639499)<br>Pro：首月 49.9 元，续费 200 元/月                             | – [veCLI（火山引擎）](https://www.volcengine.com/docs/82354/1639499)<br>– [Trae（字节官方 AI IDE）](https://www.trae.ai/)<br>– 兼容 Anthropic API，Claude Code 一行配置即可切换 | [CodeBuddy（腾讯开源）](https://github.com/Tencent/CodeBuddy)     |
+| **DeepSeek-Coder**    | 深度求索开源系列，可本地部署              | 模型开源免费<br>[API 按量：输入 1 元 / 百万 tokens，输出 2 元 / 百万 tokens](https://platform.deepseek.com/)                                         | – [DeepSeek-Coder-CLI（官方）](https://coder.deepseek.com/)<br>– continue.dev / OpenCoder 插件                                                                 | 同上                                                          |
+| **Qwen3-Coder-Flash** | 阿里通义「甜品级」开源编程模型             | 模型开源免费<br>[API 按量：输入≈0.8 元 / 百万 tokens，输出≈1.5 元 / 百万 tokens](https://www.modelscope.cn/models/Qwen/Qwen3-Coder-30B-A3B-Instruct) | – [Qwen-Code-CLI（官方）](https://github.com/QwenLM/Qwen-Code-CLI)<br>– [Qoder（阿里 AI IDE）](https://qoder.aliyun.com/)<br>– Claude Code + 自定义 endpoint        | 同上                                                          |
 
 
 ## 常见问题
