@@ -428,10 +428,8 @@
 
 | 名称 | 简要 | 链接 |
 |----------|----------|------|
-| Context Engineering Template | 介绍上下文工程作为vibe coding的基础，教导如何使用CLAUDE.md和INITIAL.md等文件创建项目规则和功能请求，以实现一致的AI驱动开发。 | [link](https://github.com/coleam00/context-engineering-intro) |
-| Vibe Coding Workflow | 提供一个5阶段AI工作流程，用于快速构建MVP，使用结构化文档和通用代理指令指导Claude Code和Cursor等工具。 | [link](https://github.com/KhazP/vibe-coding-prompt-template) |
-| Rulebook AI | 一个CLI工具，用于打包和部署一致的专家环境到AI编码助手，通过可移植的“Packs”和版本化规则确保跨工具的一致性。 | [link](https://github.com/botingw/rulebook-ai) |
-| Vibe Kanban | 一个基于Rust的编排平台，用于管理AI编码代理（如Claude Code、Gemini CLI），支持任务切换、并行执行和集中MCP配置。 | [link](https://github.com/BloopAI/vibe-kanban) |
+| datawhalechina/vibe-vibe | 首个系统化 Vibe Coding 开源教程，从零基础到全栈实战，让人人都能用 AI 开发产品。在线阅读地址：www.vibevibe.cn | [link](https://github.com/datawhalechina/vibe-vibe) |
+| tukuaiai/vibe-coding-cn | Vibe Coding 的中文翻译版本 + 个人开发经验 + 提示词库，构建成一个综合的 vibecoding 工作站，包含工作流程、工具配置和最佳实践 | [link](https://github.com/tukuaiai/vibe-coding-cn) |
 
 
 ## 🙏 Acknowledgement
