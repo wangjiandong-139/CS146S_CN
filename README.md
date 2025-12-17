@@ -78,9 +78,9 @@
 
   - [LLM 提示词实践平台: LLM Prompting Playground](./Assignments/week1/README.md)
 
-**9 月 22 日（周一）：** 简介及 LLM 原理 - [Slides](./Resource/pdfs/1_1%20Introduction%20and%20how%20an%20LLM%20is%20made.pdf)
+**9 月 22 日（周一）：** 简介及 LLM 原理 - [Slides](./Resource/pdfs/1_1%20Introduction%20and%20how%20an%20LLM%20is%20made.pdf) [中文PPT](./Resource/pdfs/1_1%20Introduction%20and%20how%20an%20LLM%20is%20made_CN.pdf)
 
-**9 月 26 日（周五）：** LLM 的高效提示 - [Slides](./Resource/pdfs/1_2%20Power%20prompting%20for%20LLMs.pdf)
+**9 月 26 日（周五）：** LLM 的高效提示 - [Slides](./Resource/pdfs/1_2%20Power%20prompting%20for%20LLMs.pdf) [中文PPT](./Resource/pdfs/1_2%20Power%20prompting%20for%20LLMs_CN.pdf)
 
 ### 第 2 周：编码智能体剖析
 
