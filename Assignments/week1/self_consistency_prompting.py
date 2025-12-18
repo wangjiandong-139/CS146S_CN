@@ -1,3 +1,5 @@
+# Acknowledgement:github.com/sweetkruts/cs146s
+
 import os
 import re
 from collections import Counter
@@ -9,7 +11,8 @@ load_dotenv()
 NUM_RUNS_TIMES = 5
 
 # TODO: Fill this in! Try to get as close to 100% correctness across all runs as possible.
-YOUR_SYSTEM_PROMPT = ""
+# 多运行几次，SUCCESS概率较小
+YOUR_SYSTEM_PROMPT = "You are a precise math solver. Explain your reasoning step-by-step"
 
 USER_PROMPT = """
 Solve this problem, then give the final answer on the last line as "Answer: <number>".

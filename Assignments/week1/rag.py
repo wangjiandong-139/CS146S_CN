@@ -1,3 +1,5 @@
+# Acknowledgement:github.com/sweetkruts/cs146s
+
 import os
 import re
 from typing import List, Callable
@@ -37,7 +39,10 @@ QUESTION = (
 
 
 # TODO: Fill this in!
-YOUR_SYSTEM_PROMPT = ""
+YOUR_SYSTEM_PROMPT = """
+Do not make up any information. Only use the provided Context.
+- Write clear, standard Python with necessary imports.
+"""
 
 
 # For this simple example
@@ -56,7 +61,7 @@ def YOUR_CONTEXT_PROVIDER(corpus: List[str]) -> List[str]:
 
     For example, return [] to simulate missing context, or [corpus[0]] to include the API docs.
     """
-    return []
+    return [corpus[0]] if corpus else []
 
 
 def make_user_prompt(question: str, context_docs: List[str]) -> str:
